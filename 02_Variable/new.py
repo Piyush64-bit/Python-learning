@@ -1,4 +1,4 @@
-# 🚀 Variable Basics in Python
+# Variable Basics in Python
 
 # Integers
 age = 21
@@ -33,6 +33,6 @@ year = "2025"
 year_number = int(year)
 print("Next year will be:", year_number + 1)
 
-# 🔥 Bonus: User input
+#  Bonus: User input
 fav_color = input("What's your fav color? ")
 print("Your favorite color is:", fav_color)
